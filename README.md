@@ -1,4 +1,4 @@
-# Clothify
+]# Clothify
 
 ## 📂 Repository Structure
 
@@ -9,7 +9,8 @@
 
 Planned features for this project (combined FE & BE):
 
+
 ## 🛠️ Technologies Used
 
-- **Backend:** ??????
+- **Backend:** Bun + Hono + Prisma ORM + PostgreSQL (Supabase) + Docker
 - **Frontend:** React + Tailwind CSS + Vite
